@@ -1,0 +1,98 @@
+body{
+    /* background-color: red; */
+}
+/* #navigation */
+#navbar{
+    flex-direction: column;
+
+}
+.btn{
+    outline: none;
+    font-size: 1rem;
+    padding: 4px;
+    margin: 10px;
+}
+.btn:hover{
+    outline: none;
+    font-size: 1rem;
+    padding: 4px;
+    margin: 10px;
+}
+
+#logo img {
+    height: 49px;
+    margin: -5px;
+    padding: 0px;
+}
+#navbar ul li a {
+    padding: 0px 1px;
+    font-size: 1rem;
+}
+
+/* Home */
+.primary-sec {
+    font-size: 2.1rem;
+    padding: 14px;
+}
+#home{
+    height: 344px;
+
+}
+#home::before{
+    height: 425px;
+}
+#home p{
+font-size: 1rem;
+}
+/* services section */
+.service-container {
+    height: 917px;
+}
+#services{
+    flex-direction:column ;
+}
+#services .box{
+    height: 195px;
+
+}
+#services .box img {
+    
+    height: 59px;
+    margin: auto;
+    padding: 2px
+}
+
+.center {
+    font-size: 0.7rem;
+}
+.primary-sec{
+    font-size: 2.1rem;
+    padding: 5px;
+}
+
+/* client section */
+
+#client{
+    flex-wrap: wrap;
+}
+#client img {
+    height: 68px;
+    padding: 7px;
+    width: 63px;
+}
+/* #client .client-item img{
+    width: 56px;
+    padding: 45px;
+    position: absolute;
+} */
+
+#text-area{
+    height: 120px;
+}
+#contact-box label {
+    
+    font-size: 1.2rem;
+}
+#contact-box form{
+    width: 80%;
+}
