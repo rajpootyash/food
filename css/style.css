@@ -79,7 +79,7 @@ html{
     content: " ";
     height: 800px;
     width: 100%;
-    background: url(../bg.jpg) center center/cover no-repeat ;
+    background: url(../img/bg.jpg) center center/cover no-repeat ;
     position: absolute;
     z-index: -1;
     opacity: 0.89;
@@ -166,7 +166,7 @@ html{
     height: 377px;
     position: absolute;
     width: 100%;
-    background: url(../bg2.jpg) center center/cover no-repeat;
+    background: url(../img/bg2.jpg) center center/cover no-repeat;
     z-index: -1;
     opacity: 0.7;
     
@@ -193,7 +193,7 @@ html{
     position: absolute;
     height: 100%;
     width: 100%;
-    background: url(../bg1.jpg) center center/cover no-repeat;
+    background: url(../img/bg1.jpg) center center/cover no-repeat;
     z-index: -1;
     content: "";
     opacity: 0.7;
